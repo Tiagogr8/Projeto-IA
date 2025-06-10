@@ -1,0 +1,8 @@
+courier_id, transport_type, base_speed, max_weight
+C001,Bicicleta,15,5
+C002,Moto,30,20
+C003,Carro,45,100
+C004,Bicicleta,15,5
+C005,Moto,30,20
+C006,Bicicleta,15,5
+C007,Carro,45,100
